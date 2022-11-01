@@ -4,6 +4,8 @@ import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
+import mock6 from "../img/mock6.png";
+import mock7 from "../img/mock7.png";
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -119,6 +121,18 @@ export const info = {
       live: "https://parifranco8.github.io/pong/",
       source: "https://github.com/parifranco8/pong",
       image: mock5,
+    },
+    {
+      title: "NASA APOD Project",
+      live: "https://parifranco8.github.io/nasa-apod/",
+      source: "https://github.com/parifranco8/nasa-apod",
+      image: mock6,
+    },
+    {
+      title: "Kanban Board",
+      live: "https://parifranco8.github.io/drag-and-drop",
+      source: "https://github.com/parifranco8/drag-and-drop",
+      image: mock7,
     },
   ],
 };
